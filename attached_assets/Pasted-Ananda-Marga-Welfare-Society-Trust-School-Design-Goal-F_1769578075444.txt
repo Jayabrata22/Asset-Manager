@@ -1,0 +1,140 @@
+Ananda Marga Welfare Society (Trust + School)
+
+🎯 Design Goal
+
+Feel:
+
+Trustworthy
+
+Peaceful
+
+Socially responsible
+
+Simple & easy for villagers, parents, donors
+
+Style:
+
+White background
+
+Light saffron + soft green accents
+
+Large readable text
+
+Minimal animations
+
+🧱 Site Structure (Final)
+Pages:
+
+Home
+
+About Trust
+
+Our Causes
+
+School Project
+
+Activities
+
+Donate / Support
+
+Contact
+
+🖥️ HOME PAGE DESIGN (Based on your PDF)
+1. Hero Section (Top Banner)
+
+Background:
+Children studying / Volunteers planting trees
+
+Text:
+
+Ananda Marga Welfare Society
+Service to Humanity is Service to God
+
+Buttons:
+[ Join Us ]
+[ Contribute As You Can ]
+
+2. About Trust (Short)
+
+Ananda Marga Welfare Society is a registered charitable trust working for education, elderly care, environmental protection, and service to humanity inspired by Neo-humanist values.
+
+3. Our Core Causes (3 Cards)
+
+Use simple icons:
+
+📘 Education for Needy Children
+Supporting underprivileged children through value-based education.
+
+👵 Support for Elderly Parents
+Care and dignity for senior citizens.
+
+🌱 Tree Plantation & Environment
+Building a greener and healthier society.
+
+4. School Project Section (From your proposal)
+
+Title:
+Ananda Marga Primary School – Mysore
+
+Text:
+
+Established in 2006, currently serving 60 students.
+Proposed new campus for 150–500 students.
+Focus on moral, spiritual and holistic education.
+
+Button:
+[ Support the School Project ]
+
+5. Latest Activities
+
+Grid of photos:
+
+Yoga session
+
+Plantation
+
+School children
+
+Community service
+
+Small captions under each.
+
+6. Testimonials
+
+"This school changed my child’s life." – Parent
+"Trust is doing real service." – Donor
+
+7. Footer (Using your real details)
+
+Ananda Marga Welfare Society
+📧 anandavitamohaacharya@gmail.com
+
+📞 9845603926 / 9113564422
+📍 Mysore, Karnataka
+
+Also include:
+
+Trust Registration
+
+© 2026 All Rights Reserved
+
+🎨 Suggested Color Palette
+
+White background
+
+Saffron accent: #F4A261
+
+Green accent: #2A9D8F
+
+Dark text: #333333
+
+🧪 Prompt you can now use in your AI app
+
+Short, optimized using your real content:
+
+Create a simple, clean, responsive website for a charitable trust named "Ananda Marga Welfare Society".
+Purpose: Trust + School website.
+Pages: Home, About, Causes, School Project, Activities, Donate, Contact.
+Include hero section with tagline "Service to Humanity is Service to God", about section, causes (Education, Elderly Support, Environment), school project info, photo gallery, testimonials, and footer with contact details.
+Design must feel peaceful, trustworthy, minimal, and professional.
+Use soft colors and provide full HTML/CSS code.
